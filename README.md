@@ -12,13 +12,13 @@
 
 ---
 
-<img src="./images/1.png" alt="1" style="zoom:30%;" />
+<img src="./images/1.png" width=50% />
 
 ---
 
-<img src="./images/skin1-1.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-2.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-3.jpeg" alt="1" style="zoom:30%;" />
+<img src="./images/skin1-1.jpeg"  width=33.3%/><img src="./images/skin1-2.jpeg"  width=33.3%/><img src="./images/skin1-3.jpeg"  width=33.3%/>
 
-<img src="./images/skin1-4.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-5.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-6.jpeg" alt="1" style="zoom:30%;" />
+<img src="./images/skin1-4.jpeg"  width=33.3%/><img src="./images/skin1-5.jpeg"  width=33.3%/><img src="./images/skin1-6.jpeg"  width=33.3%/>
 
 ### 运行源码
 
