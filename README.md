@@ -20,13 +20,13 @@
 
 ---
 
-<img src="./images/skin2-1.jpeg"  width=20%/><img src="./images/skin2-2.jpeg"  width=20%/><img src="./images/skin2-3.jpeg"  width=20%/>
+<img src="./images/skin2-1.jpeg"  width=30%/><img src="./images/skin2-2.jpeg"  width=30%/><img src="./images/skin2-3.jpeg"  width=30%/>
 
-<img src="./images/skin2-4.jpeg"  width=20%/><img src="./images/skin2-5.jpeg"  width=20%/><img src="./images/skin2-6.jpeg"  width=20%/>
+<img src="./images/skin2-4.jpeg"  width=30%/><img src="./images/skin2-5.jpeg"  width=30%/><img src="./images/skin2-6.jpeg"  width=30%/>
 
-<img src="./images/skin1-1.jpeg"  width=20%/><img src="./images/skin1-2.jpeg"  width=20%/><img src="./images/skin1-3.jpeg"  width=20%/>
+<img src="./images/skin1-1.jpeg"  width=30%/><img src="./images/skin1-2.jpeg"  width=30%/><img src="./images/skin1-3.jpeg"  width=30%/>
 
-<img src="./images/skin1-4.jpeg"  width=20%/><img src="./images/skin1-5.jpeg"  width=20%/><img src="./images/skin1-6.jpeg"  width=20%/>
+<img src="./images/skin1-4.jpeg"  width=30%/><img src="./images/skin1-5.jpeg"  width=30%/><img src="./images/skin1-6.jpeg"  width=30%/>
 
 ### 运行源码
 
