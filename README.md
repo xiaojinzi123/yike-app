@@ -14,11 +14,7 @@
 
 <img src="./images/appDesc.png" width=50% />
 
----
-
 <img src="./images/calendar.jpeg" width=20% /><img src="./images/my.jpeg" width=20% /><img src="./images/billCrud.jpeg" width=20% /><img src="./images/search.jpeg" width=20% /><img src="./images/billCycle.jpg" width=20% />
-
----
 
 <img src="./images/skin2-1.jpeg"  width=30%/><img src="./images/skin2-2.jpeg"  width=30%/><img src="./images/skin2-3.jpeg"  width=30%/>
 
