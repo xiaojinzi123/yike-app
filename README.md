@@ -8,6 +8,18 @@
 
 所有记账功能基本都是 ok 的. 有兴趣的点点 star 哦
 
+### 产品示例图
+
+---
+
+<img src="./images/1.png" alt="1" style="zoom:30%;" />
+
+---
+
+<img src="./images/skin1-1.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-2.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-3.jpeg" alt="1" style="zoom:30%;" />
+
+<img src="./images/skin1-4.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-5.jpeg" alt="1" style="zoom:30%;" /><img src="./images/skin1-6.jpeg" alt="1" style="zoom:30%;" />
+
 ### 运行源码
 
 ---
