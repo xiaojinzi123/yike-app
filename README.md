@@ -32,16 +32,7 @@
 
 首先找到一个存放源码的文件夹. 我的文件夹名字叫：yike-app
 
-然后根据你依赖的方式选择其一进行源码依赖
-
-使用 ssh 的命令
-
-```Text
-git clone git@github.com:xiaojinzi123/yike-app-common.git ./common
-git clone git@github.com:xiaojinzi123/yike-app-adapter.git ./opensource
-```
-
-否则使用下面的命令
+clone 项目
 
 ```Text
 git clone https://github.com/xiaojinzi123/yike-app-adapter.git ./common
