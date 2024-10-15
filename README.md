@@ -35,7 +35,7 @@
 clone 项目
 
 ```Text
-git clone https://github.com/xiaojinzi123/yike-app-adapter.git ./common
+git clone https://github.com/xiaojinzi123/yike-app-common.git ./common
 git clone https://github.com/xiaojinzi123/yike-app-adapter.git ./opensource
 ```
 
@@ -48,6 +48,24 @@ yike-app
 ```
 
 然后在 Android Studio 中打开即可 common 文件夹即可运行
+
+### 模块介绍
+
+- [yike-app-adapter](https://github.com/xiaojinzi123/yike-app-adapter.git)
+  - app 壳工程模块
+  - module-network // 提供和服务器通信的网络实现模块 (开源版本只有一些个默认实现, 真的实现在商用版本中才有实现)
+- [yike-app-common](https://github.com/xiaojinzi123/yike-app-common)
+  - build-logic // gradle 脚本
+  - lib-res // 存放所有的资源
+  - module-base // 业务模块的 Base
+  - module-core // 记账的大部分核心功能的实现模块
+  - module-datasource // 提供数据支持的能力. (多用户的数据库)
+  - module-image-picker // 图片选择器模块
+  - module-image-preview // 图片预览模块
+  - module-main // index、setting 等界面
+  - module-qrcode // 二维码实现模块
+  - module-user // 用户模块
+  - module-widget // 系统小部件实现模块
 
 ### 项目用到的技术
 
