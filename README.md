@@ -8,7 +8,9 @@
 
 所有记账功能基本都是 ok 的. 觉得不错的点点 star 哦
 
-开源版可以跟随下面的指导进行 clone 并运行, 商业版下载地址：https://yike.icxj.cn
+- 开源版本下载：[https://github.com/xiaojinzi123/yike-app/releases](https://github.com/xiaojinzi123/yike-app/releases)
+- 商业版下载地址：[https://yike.icxj.cn](https://yike.icxj.cn)
+- 如果你是开发者, 可以跟随下面的文档进行 clone 并运行
 
 ### 产品示例图
 
