@@ -82,3 +82,7 @@ yike-app
 - Material Design3
 - 数据同步方案 (开源版本没有)
 - 多数据库方案 (一个用户对应一个数据库)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xiaojinzi123/yike-app&type=Date)](https://www.star-history.com/#xiaojinzi123/yike-app&Date)
