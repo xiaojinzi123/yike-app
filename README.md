@@ -2,7 +2,7 @@
 
 ---
 
-一刻记账的开源版本终于来啦. 开源版本和商用版本最大的区别就是去掉了服务器相关的支持.
+一刻记账的开源版本. 开源版本和商用版本最大的区别就是去掉了服务器相关的支持.
 
 所有和服务器相关的功能在开源版本是没有的. 但是开源版本默认会为您使用默认 userId 完成本地登录. 
 
@@ -13,6 +13,10 @@
 - 开源版本下载：[https://github.com/xiaojinzi123/yike-app/releases](https://github.com/xiaojinzi123/yike-app/releases)
 - 商业版下载地址：[https://yike.icxj.cn](https://yike.icxj.cn)
 - 如果你是开发者, 可以跟随下面的文档进行 clone 源码并运行
+
+### 目前一刻记账产品关系图
+
+<img width="744" height="440" alt="image" src="https://github.com/user-attachments/assets/e1ae9975-388f-4b08-b8a1-874847f6e1de" />
 
 ### 产品示例图
 
